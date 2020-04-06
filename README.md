@@ -1,6 +1,6 @@
-# Clathrins_evolution
+# Genetic diversity of CHC22 clathrin impacts its function in glucose metabolism
 
-Collection of scripts used for Fumagalli, Camus, Diekmann et al. 2019 [bioarxiv](https://www.biorxiv.org/content/10.1101/307264v2)
+Collection of scripts used for Fumagalli M, Camus SM, Diekmann Y _et al._ 2019 [eLife](https://elifesciences.org/articles/41517). Genetic diversity of CHC22 clathrin impacts its function in glucose metabolism.
 
 Any queries should be directed to m.fumagalli@imperial.ac.uk
 
